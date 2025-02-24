@@ -1,0 +1,59 @@
+Query No.: 0
+Query name:Jiawei Han
+Round 0 Result community:
+1. Jiawei Han DM&DB
+2. Gang Wang CV&NLP&ML&DM
+3. Hujun Bao CV&DB&DM
+4. Jian Pei DM&NLP
+5. Micheline Kamber DM
+6. Philip S. Yu DM&DB&CV
+7. Wei Wang CV&DB&DM&NLP&ML&Sys
+8. Shuicheng Yan CV
+9. Xifeng Yan DM&DB
+10. ChengXiang Zhai DM
+11. Yi-Zhou Sun DM
+12. Zheng Chen DM&NLP&ML
+13. Qiang Yang DM&DB
+14. Chao Zhang CV&DM&NLP&ML&Sys
+15. Thomas S. Huang CV
+16. Heng Ji NLP
+17. Dacheng Tao CV
+18. Ming-Hsuan Yang CV
+19. Xiang Ren DM&Sys
+20. Chi Wang DM&CV
+21. Charu C. Aggarwal DM
+22. Hong Cheng CV&ML&DM
+23. Jiebo Luo CV&DM
+24. Haixun Wang DM&DB
+25. Bo Li CV&DB&DM&NLP&ML&Sys
+26. Jie Tang DM
+27. Dong Xu CV&DB
+28. Qi Li CV&DB&DM&NLP&ML&Sys
+29. Jing Gao DM
+30. Jiwen Lu CV
+Recommended authors for insertion: 
+ 0. No insertion.
+1.Zengbin Zhang Sys
+2.Fabio Fumarola DM&DB
+3.Lubin Fan CV
+4.Ailing Piao DM
+5.Nebojsa Stefanovic DM
+6.Weize Kong DM
+7.Jiaya Jia CV&ML
+8.Steve Maybank CV
+9.Venice Erin Liong CV
+10.Tao Wan DM
+Recommended authors for deletion: 
+ 0. No deletion.
+1.Jiebo Luo CV&DM
+2.Bo Li CV&DB&DM&NLP&ML&Sys
+3.Hong Cheng CV&ML&DM
+4.Jing Gao DM
+5.Qi Li CV&DB&DM&NLP&ML&Sys
+6.Yi-Zhou Sun DM
+7.Dong Xu CV&DB
+8.Heng Ji NLP
+9.Gang Wang CV&NLP&ML&DM
+10.Chao Zhang CV&DM&NLP&ML&Sys
+You choose 0. No insertion.
+You choose 0. No deletion.

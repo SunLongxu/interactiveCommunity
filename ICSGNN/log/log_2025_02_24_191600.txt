@@ -1,0 +1,43 @@
+Round 1 Result community:
+1. Jiawei Han DM&DB
+2. Gang Wang CV&NLP&ML&DM
+3. Jian Pei DM&NLP
+4. Micheline Kamber DM
+5. Hujun Bao CV&DB&DM
+6. Philip S. Yu DM&DB&CV
+7. Wei Wang CV&DB&DM&NLP&ML&Sys
+8. ChengXiang Zhai DM
+9. Xifeng Yan DM&DB
+10. Yi-Zhou Sun DM
+11. Zheng Chen DM&NLP&ML
+12. Chao Zhang CV&DM&NLP&ML&Sys
+13. Shuicheng Yan CV
+14. Qiang Yang DM&DB
+15. Heng Ji NLP
+16. Xiang Ren DM&Sys
+17. Chi Wang DM&CV
+18. Hong Cheng CV&ML&DM
+19. Charu C. Aggarwal DM
+20. Ben Y. Zhao Sys
+21. Thomas S. Huang CV
+22. Dacheng Tao CV
+23. Qi Li CV&DB&DM&NLP&ML&Sys
+24. Wei Liu CV&DB&DM&NLP&ML
+25. Tarek Abdelzaher DM
+26. Jing Gao DM
+27. Haitao Zheng Sys
+28. Jie Tang DM
+29. Haixun Wang DM&DB
+30. Ming-Hsuan Yang CV
+Recommended authors for insertion: 
+ 0. No insertion.
+1.Michael R. Lyu DM
+2.Yaliang Li DM
+3.Ying-Yu Chen DM
+4.Shuochao Yao DM
+5.Tad B. Pinkerton Sys
+6.Yanning Shen ML
+7.Jing Ge Ge DM
+8.Yuanyuan Tian DB
+9.Vincent W. Zheng DM&NLP&ML
+10.David A. Padua Sys
