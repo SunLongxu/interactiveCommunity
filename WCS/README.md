@@ -15,7 +15,7 @@ The **cmtyId** folder contains the code used to prepare a set of candidate query
 The **randomQuery5k** folder includes query generation code for WCS model.
 
 ### Dependencies
-Before use the code, make sure you have installed [JAVA](https://www.oracle.com/hk/java/technologies/downloads/).
+Before using the code, make sure you have installed **[JAVA](https://www.oracle.com/hk/java/technologies/javase/javase8u211-later-archive-downloads.html)**: Version 1.8.0_381 (Java SE Runtime Environment).
 
 ### How to run the code
 To test the code, execute the `run_gics.sh` file or `run_baseline.sh` file with the following command:

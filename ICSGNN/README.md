@@ -12,6 +12,11 @@ Before use the code, make sure you have installed
 - texttable >=1.6.3
 - networkx >=2.4
 
+To install the required packages using requirements.txt, run the following codes:
+``
+pip install -r requirements.txt
+``
+
 ### How to run the code
 To test the main code, execute the `run_gics.sh` file or `run_baseline.sh` file with the following command:
 

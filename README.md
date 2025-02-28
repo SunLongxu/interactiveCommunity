@@ -56,6 +56,15 @@ This project is organized into five key directories, where *<span style="color:g
 - **Method comparison:** Supports baseline vs. GICS framework in all models.
 
 - **Support for new datasets:** The README.md file in each model folder illustrates the input data format, and query, index, and supplementary file generation methods.
+
+## Dependencies
+
+This project requires the following software to be installed:
+
+- **Java**: Version 1.8.0_381 (Java SE Runtime Environment)
+- **Python**: Version 3.9.12
+
+Make sure to have the correct versions installed to ensure compatibility with the project. The detailed configuration of the environment is in the README.md files in separate model folders. The python packages and versions are listed in ICSGNN/requirements.txt.  
   
 ### Contacts
 
